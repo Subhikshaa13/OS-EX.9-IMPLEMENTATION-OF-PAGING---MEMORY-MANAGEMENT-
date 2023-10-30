@@ -68,5 +68,5 @@ OUTPUT:
 ![image](https://github.com/Subhikshaa13/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118787344/0b8713db-f0c9-42ed-9b30-54f15d455880)
 
 RESULT:
-Thus the implementation of paging technique for memory management is executed successfully.
+
 Thus the implementation of paging technique for memory management is executed successfully.
